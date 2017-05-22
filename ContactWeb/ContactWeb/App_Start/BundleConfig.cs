@@ -20,7 +20,7 @@ namespace ContactWeb
                         "~/Assets/js/lib/dataTables.colRedorder.min.js",
                         "~/Assets/js/lib/jquery.dataTables.min.js"));
 
-            bundles.Add(new StyleBundle("~/Assets/css").Include(
+            bundles.Add(new StyleBundle("~/asset/css").Include(
                         "~/Assets/css/bootstrap.min.css",
                         "~/Assets/css/jquery.dataTables.min.css",
                         "~/Assets/css/jquery.dataTables_themeroller.css",
