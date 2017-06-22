@@ -145,6 +145,9 @@ D:\Development\Git-Repository\udemy-mvc-45\ContactWeb\ContactWeb\bin\Microsoft.A
 D:\Development\Git-Repository\udemy-mvc-45\ContactWeb\ContactWeb\bin\Microsoft.AI.WindowsServer.xml
 D:\Development\Git-Repository\udemy-mvc-45\ContactWeb\ContactWeb\bin\Microsoft.ApplicationInsights.xml
 D:\Development\Git-Repository\udemy-mvc-45\ContactWeb\ContactWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Development\Git-Repository\udemy-mvc-45\ContactWeb\ContactWeb\bin\Microsoft.Owin.xml
+D:\Development\Git-Repository\udemy-mvc-45\ContactWeb\ContactWeb\bin\Microsoft.Owin.Security.xml
+D:\Development\Git-Repository\udemy-mvc-45\ContactWeb\ContactWeb\bin\Microsoft.Owin.Security.Facebook.xml
 D:\Development\Git-Repository\udemy-mvc-45\ContactWeb\ContactWeb\bin\System.Web.Helpers.xml
 D:\Development\Git-Repository\udemy-mvc-45\ContactWeb\ContactWeb\bin\System.Web.Mvc.xml
 D:\Development\Git-Repository\udemy-mvc-45\ContactWeb\ContactWeb\bin\System.Web.Optimization.xml
@@ -162,15 +165,11 @@ D:\Development\Git-Repository\udemy-mvc-45\ContactWeb\ContactWeb\bin\EntityFrame
 D:\Development\Git-Repository\udemy-mvc-45\ContactWeb\ContactWeb\bin\Microsoft.AspNet.Identity.Core.xml
 D:\Development\Git-Repository\udemy-mvc-45\ContactWeb\ContactWeb\bin\Microsoft.AspNet.Identity.Owin.xml
 D:\Development\Git-Repository\udemy-mvc-45\ContactWeb\ContactWeb\bin\Microsoft.AspNet.Identity.EntityFramework.xml
-D:\Development\Git-Repository\udemy-mvc-45\ContactWeb\ContactWeb\bin\Microsoft.Owin.xml
 D:\Development\Git-Repository\udemy-mvc-45\ContactWeb\ContactWeb\bin\Microsoft.Owin.Host.SystemWeb.xml
-D:\Development\Git-Repository\udemy-mvc-45\ContactWeb\ContactWeb\bin\Microsoft.Owin.Security.xml
-D:\Development\Git-Repository\udemy-mvc-45\ContactWeb\ContactWeb\bin\Microsoft.Owin.Security.Facebook.xml
 D:\Development\Git-Repository\udemy-mvc-45\ContactWeb\ContactWeb\bin\Microsoft.Owin.Security.Cookies.xml
 D:\Development\Git-Repository\udemy-mvc-45\ContactWeb\ContactWeb\bin\Microsoft.Owin.Security.OAuth.xml
 D:\Development\Git-Repository\udemy-mvc-45\ContactWeb\ContactWeb\bin\Microsoft.Owin.Security.Google.xml
 D:\Development\Git-Repository\udemy-mvc-45\ContactWeb\ContactWeb\bin\Microsoft.Owin.Security.Twitter.xml
 D:\Development\Git-Repository\udemy-mvc-45\ContactWeb\ContactWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
-D:\Development\Git-Repository\udemy-mvc-45\ContactWeb\ContactWeb\obj\Debug\ContactWeb.csprojResolveAssemblyReference.cache
 D:\Development\Git-Repository\udemy-mvc-45\ContactWeb\ContactWeb\obj\Debug\ContactWeb.dll
 D:\Development\Git-Repository\udemy-mvc-45\ContactWeb\ContactWeb\obj\Debug\ContactWeb.pdb
