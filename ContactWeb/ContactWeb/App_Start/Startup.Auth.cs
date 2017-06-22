@@ -54,11 +54,11 @@ namespace ContactWeb
             //   consumerKey: "",
             //   consumerSecret: "");
 
-            /*
+            
             app.UseFacebookAuthentication(
-               appId: "1908845766104789",
-               appSecret: "2ba800607aae1cf10adba5b207b1b014");
-            */
+               appId: "1951971975034150",
+               appSecret: "824e642fe82947e77d0b7aced3d1334a");
+            
 
             //app.UseGoogleAuthentication(new GoogleOAuth2AuthenticationOptions()
             //{
